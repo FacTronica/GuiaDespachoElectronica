@@ -29,4 +29,6 @@ Tag: TipoDespacho
 <br>7: Para de devolución de mercaderías que fueron trasladadas para exportación desde la zona de embarque.
 <br>8 y 9: Para exportaciones, cuando se dirige la mercadería hacia el puerto, aeropuerto o aduana de embarque.
 <br>9 : Entre otros, venta de mercaderías que se entregan en Zona Primaria de Aduanas para su exportación
-
+<br>
+<br>En el siguiente link puede ver mayor información, en las páginas 12 y 13 del Pdf.
+<br><a href="https://www.sii.cl/factura_electronica/factura_mercado/formato_dte_201911.pdf" target="_blank">Instructivo del SII</a>
