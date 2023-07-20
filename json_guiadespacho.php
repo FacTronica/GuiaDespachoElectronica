@@ -1,6 +1,6 @@
 <?php
 #
-# ARRAY CON DATOS PARA EMITIR GU虯 DESPACHO ELECTR覰ICA TIPO 52
+# ARRAY CON DATOS PARA EMITIR GU脥A DESPACHO ELECTR脫NICA TIPO 52
 #
 #
 
@@ -68,6 +68,17 @@ $DatosGuiaDespacho = array(
 "Contacto"=>"DORIS",
 "CorreoRecep"=>"contacto@factronica.cl",
 "FonoRecep"=>"569...",
+
+# DATOS DE TRANSPORTE
+"Patente"=>"HHFF42",
+"RUTTrans"=>"22333444-5",
+"RUTChofer"=>"33444555-3",
+"NombreChofer"=>"MICHAEL SCHUMAHER",
+"DirDest"=>"AV. LAS LOMAS 3344",
+"CmnaDest"=>"LAS CONDES",
+"CiudadDest"=>"SANTIAGO",
+
+	
 #
 # TOTALES
 "TasaIVA" => "19",
@@ -91,12 +102,12 @@ $DatosGuiaDespacho = array(
 # 4: Entrega gratuita
 # 5: Traslados internos
 # 6: Otros traslados no venta
-# 7: Gu韆 de devoluci髇
-# 8: Traslado para exportaci髇. (no venta)
-# 9: Venta para exportaci髇
-# 7: Para de devoluci髇 de mercader韆s que fueron trasladadas para exportaci髇 desde la zona de embarque.
-# 8 y 9: Para exportaciones, cuando se dirige la mercader韆 hacia el puerto, aeropuerto o aduana de embarque.
-# 9 : Entre otros, venta de mercader韆s que se entregan en Zona Primaria de Aduanas para su exportaci髇 
+# 7: Gu铆a de devoluci贸n
+# 8: Traslado para exportaci贸n. (no venta)
+# 9: Venta para exportaci贸n
+# 7: Para de devoluci贸n de mercader铆as que fueron trasladadas para exportaci贸n desde la zona de embarque.
+# 8 y 9: Para exportaciones, cuando se dirige la mercader铆a hacia el puerto, aeropuerto o aduana de embarque.
+# 9 : Entre otros, venta de mercader铆as que se entregan en Zona Primaria de Aduanas para su exportaci贸n 
 "IndTraslado " => 1,
 
 
